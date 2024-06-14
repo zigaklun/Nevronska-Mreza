@@ -40,12 +40,11 @@ Ta projekt je namenjen učenju in raziskovanju osnov nevronskih mrež. Implement
 
 ## Uporaba
 
-1. Pripravite podatkovne datoteke v mapi `data/` v ustreznem formatu.
-2. Zaženite glavno datoteko za trening:
+1. Zaženite glavno datoteko za trening:
     ```sh
     python main.py
     ```
-3. Med treningom bodo v konzoli prikazani napredki. Model bo periodično shranjen v mapo `saved_models/`.
+2. Med treningom bodo v konzoli prikazani napredki. Model bo periodično shranjen v mapo `shranjevanje/`.
 > Pozor: nevronska mreža še ni trenirana zato bo najverjetneje kazala napačne rezultate. 
 
 ## Avtorja
