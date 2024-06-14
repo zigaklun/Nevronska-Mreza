@@ -27,11 +27,11 @@ Ta projekt je namenjen učenju in raziskovanju osnov nevronskih mrež. Implement
 
 1. Klonirajte repozitorij:
     ```sh
-    git clone https://github.com/zigaklun/nevronska-mreza.git
+    git clone https://github.com/zigaklun/Nevronska-Mreza.git
     ```
 2. Premaknite se v direktorij projekta:
     ```sh
-    cd nevronska-mreza
+    cd Nevronska-Mreza
     ```
 3. Namestite potrebne knjižnice:
     ```sh
