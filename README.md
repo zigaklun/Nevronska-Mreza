@@ -35,7 +35,7 @@ Ta projekt je namenjen učenju in raziskovanju osnov nevronskih mrež. Implement
     ```
 3. Namestite potrebne knjižnice:
     ```sh
-    pip install -r requirements.txt
+    pip install numpy
     ```
 
 ## Uporaba
